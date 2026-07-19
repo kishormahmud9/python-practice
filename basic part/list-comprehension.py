@@ -9,7 +9,7 @@
 # b = list(map(int, input().split())) # map function er kaj jante hobe
 # print(b)
 
-# problem 3 taking multiple float input
+# problem 3 taking multiple float input 
 c = list(map(float, input().split())) 
 print(c)
 
